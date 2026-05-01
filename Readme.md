@@ -16,5 +16,5 @@ Accuracy: 97%
 3. Result is shown instantly
 
 ## Example Messages
-**🚨 Spam Message:** Congratulations! You have won a FREE iPhone 15! Click here to claim your prize now: www.free-prize.com. Limited time offer. Reply WIN to 9876543210
-**✅ Not Spam Message:** Hey, are you coming to college tomorrow? Let me know so we can travel together.
+1. **🚨 Spam Message:** Congratulations! You have won a FREE iPhone 15! Click here to claim your prize now: www.free-prize.com. Limited time offer. Reply WIN to 9876543210
+2. **✅ Not Spam Message:** Hey, are you coming to college tomorrow? Let me know so we can travel together.
